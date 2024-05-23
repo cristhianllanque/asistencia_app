@@ -113,7 +113,7 @@ class _HomeDrawerState extends State<HomeDrawer> {
                   Padding(
                     padding: const EdgeInsets.only(top: 8, left: 4),
                     child: Text(
-                      (name==null?"Anonimo":name)! + (" ") + (email==null?"Anomim":email)!,
+                      (name==null?"Cristhian Edy Llanque Tipo":name)! + (" ") + (email==null?"Anomim":email)!,
                       textAlign: TextAlign.center,
                       style: TextStyle(
                         fontWeight: FontWeight.w600,
